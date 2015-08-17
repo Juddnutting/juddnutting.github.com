@@ -34,6 +34,18 @@
  * Update the foundational and global aspects of the page.
  */
 
+/* GitHub + Twitter icons */
+.github-icon-svg,
+.twitter-icon-svg {
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  position: relative;
+  top: 3px;
+}
+
+
+
 /* Prevent scroll on narrow devices */
 html,
 body {
