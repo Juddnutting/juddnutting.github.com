@@ -47,10 +47,11 @@
 /* added for captioning and centering photos */
 .image-wrapper {
     text-align: center;
+    width: 100%;
 
     .image-caption {
         color: $grey-color;
-        margin-top: $spacing-unit / 3;
+        margin-top: $spacing-unit / 2;
     }
 }
 
