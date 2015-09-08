@@ -44,6 +44,16 @@
   top: 3px;
 }
 
+/* added for captioning and centering photos */
+.image-wrapper {
+    text-align: center;
+
+    .image-caption {
+        color: $grey-color;
+        margin-top: $spacing-unit / 3;
+    }
+}
+
 
 
 /* Prevent scroll on narrow devices */
